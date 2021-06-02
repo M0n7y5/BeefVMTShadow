@@ -1,0 +1,6 @@
+FileVersion = 1
+Dependencies = {corlib = "*", VMTShadowBeef = "*"}
+
+[Project]
+Name = "Test"
+StartupObject = "Test.Program"

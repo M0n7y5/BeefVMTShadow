@@ -1,0 +1,185 @@
+FileVersion = 1
+LastConfig = "Debug"
+LastPlatform = "Win32"
+RecentFilesList = ["src\\VMTObjectManager.bf", "src\\VMTHook.bf", "src\\Types.bf", "c:\\bezAV\\BeefProjjj\\VMTShadowBeef\\Test\\src\\Program.bf"]
+
+[MainWindow]
+X = 394
+Y = 146
+Width = 1472
+Height = 1014
+ShowKind = "Maximized"
+
+[MainDockingFrame]
+Type = "DockingFrame"
+SplitType = 2
+
+[[MainDockingFrame.DockedWidgets]]
+RequestedWidth = 312.0
+RequestedHeight = 1335.0
+SizePriority = 1335.0
+Type = "DockingFrame"
+SplitType = 2
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets]]
+RequestedWidth = 150.0
+RequestedHeight = 809.0
+SizePriority = 809.0
+Type = "DockingFrame"
+SplitType = 1
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets]]
+RequestedWidth = 233.0
+RequestedHeight = 312.0
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Workspace"
+TabWidth = 115.0
+Type = "ProjectPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets]]
+IsFillWidget = true
+Permanent = true
+RequestedWidth = 150.0
+RequestedHeight = 150.0
+SizePriority = 150.0
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets]]
+IsFillWidget = true
+RequestedWidth = 1476.0
+RequestedHeight = 809.0
+SizePriority = 1476.0
+DefaultDocumentsTabbedView = true
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Types.bf"
+TabWidth = 89.0
+Type = "SourceViewPanel"
+FilePath = "src\\Types.bf"
+CursorPos = 271
+VertPos = 36.0
+ProjectName = "VMTShadowBeef"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "VMTHook.bf"
+TabWidth = 113.0
+Type = "SourceViewPanel"
+FilePath = "src\\VMTHook.bf"
+CursorPos = 261
+ProjectName = "VMTShadowBeef"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "VMTObjectManager.bf"
+TabWidth = 172.0
+Type = "SourceViewPanel"
+FilePath = "src\\VMTObjectManager.bf"
+CursorPos = 425
+VertPos = 270.0
+ProjectName = "VMTShadowBeef"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Program.bf"
+TabWidth = 106.0
+Type = "SourceViewPanel"
+FilePath = "c:\\bezAV\\BeefProjjj\\VMTShadowBeef\\Test\\src\\Program.bf"
+ProjectName = "Test"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets]]
+RequestedWidth = 205.0
+RequestedHeight = 236.5
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Class View"
+TabWidth = 111.0
+Type = "ClassViewPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets]]
+RequestedWidth = 312.0
+RequestedHeight = 284.0
+Type = "DockingFrame"
+SplitType = 1
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets]]
+RequestedWidth = 312.0
+RequestedHeight = 312.0
+SizePriority = 0.4796663
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Auto Watches"
+TabWidth = 130.0
+Type = "AutoWatchPanel"
+Columns = [{Width = 149.0}, {Width = 661.0}, {Width = 200.0}]
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Profile"
+TabWidth = 87.0
+Type = "ProfilePanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Modules"
+TabWidth = 101.0
+Type = "ModulePanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Errors"
+TabWidth = 86.0
+Type = "ErrorsPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Breakpoints"
+TabWidth = 118.0
+Type = "BreakpointPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Memory"
+TabWidth = 99.0
+Type = "MemoryPanel"
+AutoResize = "Auto_Mul8"
+RequestedWidth = 434.0
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Watch"
+TabWidth = 86.0
+Type = "WatchPanel"
+Columns = [{Width = 222.0}, {Width = 250.0}, {Width = 112.0}]
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets]]
+RequestedWidth = 312.0
+RequestedHeight = 312.0
+SizePriority = 0.5203336
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Threads"
+TabWidth = 97.0
+Type = "ThreadPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Find Results"
+TabWidth = 119.0
+Type = "FindResultsPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Call Stack"
+TabWidth = 105.0
+Type = "CallStackPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Immediate"
+TabWidth = 111.0
+Type = "ImmediatePanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Output"
+TabWidth = 90.0
+Type = "OutputPanel"
